@@ -2,7 +2,7 @@ langchain
 langchain-community
 zstandard
 python-dotenv
-langchain-goole-genai
+langchain-google-genai
 fastapi
 pydantic
 uvicorn
