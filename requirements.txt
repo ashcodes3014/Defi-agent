@@ -1,8 +1,8 @@
-langchain
-langchain-community
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-google-genai>=0.0.5
 zstandard
 python-dotenv
-langchain-google-genai
 fastapi
 pydantic
 uvicorn
